@@ -1,3 +1,3 @@
-# configuration
+# Configuration
 
-A description of this package.
+Dynamic JSONDecoder parsing
